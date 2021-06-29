@@ -22,8 +22,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="F:/DeepStudy/TSEGAN" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -35,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624345499472</updated>
-      <workItem from="1624345501275" duration="1115000" />
+      <workItem from="1624345501275" duration="1356000" />
+      <workItem from="1624346917672" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="Update the code">
       <created>1624346287226</created>
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624346437266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update the code">
+      <created>1624346623163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624346623163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,18 +74,22 @@
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
     <state x="690" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346214045" />
-    <state x="560" y="-971" key="CommitChangelistDialog2" timestamp="1624346436354">
+    <state x="560" y="-971" key="CommitChangelistDialog2" timestamp="1624346622281">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="560" y="-971" key="CommitChangelistDialog2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346436354" />
-    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1624345960722">
+    <state x="560" y="-971" key="CommitChangelistDialog2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346622281" />
+    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1624347486725">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624345960722" />
-    <state x="461" y="-918" key="SettingsEditor" timestamp="1624346053843">
+    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624347486725" />
+    <state x="461" y="-918" key="SettingsEditor" timestamp="1624347346540">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="461" y="-918" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346053843" />
+    <state x="461" y="-918" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624347346540" />
+    <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1624346649703">
+      <screen x="0" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346649703" />
     <state x="752" y="-643" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624346232949">
       <screen x="0" y="-1080" width="1920" height="1040" />
     </state>
