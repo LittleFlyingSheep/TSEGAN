@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fef2891-bb34-4ccd-833f-805610523fb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,15 +17,17 @@
   <component name="ProjectId" id="1uIG4bxnh9o5iDkdZ5epfoMXcZH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="F:/DeepStudy/TSEGAN" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,6 +40,7 @@
       <updated>1624345499472</updated>
       <workItem from="1624345501275" duration="1356000" />
       <workItem from="1624346917672" duration="1170000" />
+      <workItem from="1627357428814" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="Update the code">
       <created>1624346287226</created>
@@ -63,36 +67,10 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update the code" />
     <option name="LAST_COMMIT_MESSAGE" value="Update the code" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="690" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624346214045">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="690" y="-814" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346214045" />
-    <state x="560" y="-971" key="CommitChangelistDialog2" timestamp="1624346622281">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="560" y="-971" key="CommitChangelistDialog2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346622281" />
-    <state x="740" y="-805" key="FileChooserDialogImpl" timestamp="1624347486725">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="740" y="-805" key="FileChooserDialogImpl/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624347486725" />
-    <state x="461" y="-918" key="SettingsEditor" timestamp="1624347346540">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="461" y="-918" key="SettingsEditor/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624347346540" />
-    <state x="552" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1624346649703">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="552" y="-827" key="Vcs.Push.Dialog.v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346649703" />
-    <state x="752" y="-643" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624346232949">
-      <screen x="0" y="-1080" width="1920" height="1040" />
-    </state>
-    <state x="752" y="-643" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1624346232949" />
   </component>
 </project>
